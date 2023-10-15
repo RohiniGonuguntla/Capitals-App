@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.capitals-container {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 20px;
+}
+.heading {
+  color: #323f4b;
+  font-family: Roboto;
+}
+.capital-dropdown {
+  color: #000000;
+  font-family: Roboto;
+}
+.label {
+  color: #1e293b;
+  font-family: Roboto;
+}
+.country {
+  color: #1e293b;
+  font-family: Roboto;
+}
+.cont {
+  display: flex;
+}
